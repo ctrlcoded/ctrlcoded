@@ -41,7 +41,7 @@
   <tr>
     <td width="40%">
       <b>📎 <a href="https://github.com/ctrlcoded/clipo" target="_blank">Clipo</a></b><br>
-      <sub>A minimalistic file sharing app with drag & drop upload, instant shareable links, and no login required.<br>
+      <sub>Clipo is a modern social media platform where users can upload, share, and explore short-form videos.<br>
       <b>Tech stack:</b> Next.js 14, TypeScript, Tailwind CSS, ImageKit, React Icons</sub>
     </td>
     <td width="60%">
@@ -65,7 +65,7 @@
   
 | Languages      | Web Development              | Tools & Platforms            |
 |--------------------|----------------------------------|----------------------------------|
-| C++, JS    | Next.js, React, Flask, REST APIs | Git, GitHub, VS Code, Postman, Linux |
+| C++, JS    | Next.js, React, REST APIs | Git, GitHub, VS Code, Postman, Linux |
 
 </div>
 
@@ -95,3 +95,4 @@
   <b>Thanks for visiting my profile!</b><br>
   <i>I’m always open to collaboration, learning opportunities, or a good tech conversation 😊</i>
 </p>
+
