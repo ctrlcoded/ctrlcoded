@@ -67,7 +67,7 @@ I approach development with:
 
 </div>
 
-A recruiter-focused portfolio highlighting my projects, development approach, and technical strengths.
+Take a look ❤️
 
 ---
 
