@@ -1,38 +1,40 @@
-<h1 align="center">Aryan Raghav</h1>
-<h3 align="center">I build scalable systems — not just apps.</h3>
+<div align="center">
 
-<p align="center">
-  <strong>MERN Stack Developer | Docker & Kubernetes Enthusiast | Exploring Agentic AI</strong>
-</p>
+# Aryan Raghav
+### I build scalable systems — not just apps.
 
-<p align="center">
-  <a href="https://github.com/aryanraghav?tab=followers">
-    <img src="https://img.shields.io/github/followers/aryanraghav?style=social" />
-  </a>
-  <a href="mailto:delhibhanu2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryan-raghav-96407b252/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
-  </a>
-</p>
+**MERN Stack Developer • Docker & Kubernetes Enthusiast • Exploring Agentic AI**
+
+<br>
+
+<a href="mailto:delhibhanu2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://www.linkedin.com/in/aryan-raghav-96407b252/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://aryan-portfolio-red-ten.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
 ## 💼 About Me
 
-I'm a full-stack developer focused on building **production-grade MERN applications** with clean architecture, security-first thinking, and scalable system design.
+I'm a full-stack developer focused on building **production-grade MERN applications** with clean architecture, security-first thinking, and scalable backend systems.
 
-What differentiates me:
+I approach development with:
 
-- 🛡️ **Security-first engineering** — validation, authentication, and safe API design
-- 🧠 **Structured system design** — modular architecture, clear data flow, maintainable code
-- 🚀 **Production mindset** — performance optimization, error handling, deployment-ready systems
-- 🐳 **Containerization fundamentals** — Docker-based environments
-- ☸️ **Kubernetes basics** — orchestration understanding for scalable infrastructure
-- 🤖 **Exploring Agentic AI** — integrating autonomous AI workflows into real applications
+- 🛡️ Strong authentication & input validation practices  
+- 🧠 Structured system design and modular architecture  
+- 🚀 Production-ready API development with proper error handling  
+- 🐳 Containerized environments using Docker  
+- ☸️ Foundational understanding of Kubernetes orchestration  
+- 🤖 Growing focus on Agentic AI and autonomous workflows  
 
-I don’t just build features — I build systems meant to scale.
+> I don’t just build features — I build systems meant to scale.
 
 ---
 
@@ -40,71 +42,90 @@ I don’t just build features — I build systems meant to scale.
 
 <div align="center">
 
-| Frontend | Backend | DevOps | Databases |
-|----------|----------|----------|----------|
-| React | Node.js | Docker | MongoDB |
-| TypeScript | Express | Kubernetes (Basics) | PostgreSQL |
-| Tailwind CSS | JavaScript | Linux | |
+### Frontend
+`React` • `TypeScript` • `Tailwind CSS`
+
+### Backend
+`Node.js` • `Express` • `JavaScript`
+
+### DevOps
+`Docker` • `Kubernetes (Basics)` • `Linux`
+
+### Databases
+`MongoDB` • `PostgreSQL`
 
 </div>
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+### 🔗 Live Website  
+**https://aryan-portfolio-red-ten.vercel.app/**
+
+</div>
+
+A recruiter-focused portfolio highlighting my projects, development approach, and technical strengths.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📍 GoNomad  
-🔗 https://github.com/ctrlcoded/GoNomad  
-🌐 Live: https://aryan-portfolio-red-ten.vercel.app/
+🔗 GitHub: https://github.com/ctrlcoded/GoNomad  
+🌐 Live: https://go-nomad.netlify.app/
 
 **Car & Bike Rental Platform (Full MERN Stack Application)**
 
-Built with strong focus on system reliability and clean architecture.
+Built with strong attention to backend structure, authentication security, and clean API architecture.
 
-**Highlights:**
-- Secure authentication and input validation
-- RESTful API with structured error handling
-- Responsive UI with Tailwind CSS
-- Modular backend architecture
-- Deployment-ready frontend
+**Key Highlights**
+- Secure user authentication and data validation  
+- RESTful API with centralized error handling  
+- Modular backend architecture  
+- Fully responsive UI using Tailwind CSS  
+- Deployment-ready frontend  
 
-**Tech Stack:**
-React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
+**Tech Stack**  
+`React` • `TypeScript` • `Node.js` • `Express` • `MongoDB` • `Tailwind CSS`
 
 ---
 
 ### 🔐 Bind-DNS  
-🔗 https://github.com/ctrlcoded/Bind-DNS  
+🔗 GitHub: https://github.com/ctrlcoded/Bind-DNS  
 
-**Infrastructure & DNS Automation Project**
+**DNS Management & Infrastructure Automation**
 
-- BIND DNS configuration handling
-- Shell scripting automation
-- Systems-level experimentation
-- Infrastructure-focused mindset
+- BIND DNS configuration management  
+- Shell scripting automation  
+- Infrastructure-focused experimentation  
+- Systems-level configuration handling  
 
 ---
 
 ## 🧠 Development Philosophy
 
-### 1️⃣ Security First
+### 🛡 Security First
 - Input validation at every layer  
 - Secure password handling  
 - Defensive backend development  
 
-### 2️⃣ Clean Architecture
+### 🧩 Clean Architecture
 - Modular folder structures  
-- Scalable backend design  
+- Scalable backend patterns  
 - Maintainable codebase  
 
-### 3️⃣ Performance & Reliability
+### ⚡ Performance & Reliability
 - Optimized API structure  
 - Controlled error flows  
 - Production-ready standards  
 
-### 4️⃣ UI/UX Discipline
-- Consistent spacing & typography  
+### ✨ UI/UX Discipline
 - Responsive layouts  
-- Clear user journeys  
+- Clear user flows  
+- Consistent design principles  
 
 ---
 
@@ -112,7 +133,7 @@ React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
 
 - Advanced Kubernetes concepts  
 - Backend scalability patterns  
-- Agentic AI architecture & autonomous workflows  
+- Agentic AI architecture and autonomous decision systems  
 
 ---
 
@@ -122,28 +143,3 @@ React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
 - Freelance MERN projects  
 - Startup collaborations  
 - AI + Web integration projects  
-
----
-
-## 📬 Let’s Connect
-
-<p align="center">
-  <a href="https://github.com/aryanraghav">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://aryan-portfolio-red-ten.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge" />
-  </a>
-  <a href="mailto:delhibhanu2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryan-raghav-96407b252/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Focused on building reliable, scalable software systems.</sub>
-</p>
