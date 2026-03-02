@@ -1,97 +1,149 @@
-<!-- Professional & Beautiful GitHub Profile README for Aryan Raghav -->
-
-<h1 align="center">👋 Hi, I'm Aryan Raghav</h1>
-<p align="center"><b>Web Developer · C++ Programmer · Problem Solving Enthusiast</b></p>
+<h1 align="center">Aryan Raghav</h1>
+<h3 align="center">I build scalable systems — not just apps.</h3>
 
 <p align="center">
-  <a href="mailto:delhibhanu2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-delhibhanu2@gmail.com-red?style=flat-square&logo=gmail" alt="Email">
+  <strong>MERN Stack Developer | Docker & Kubernetes Enthusiast | Exploring Agentic AI</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aryanraghav?tab=followers">
+    <img src="https://img.shields.io/github/followers/aryanraghav?style=social" />
   </a>
-  <!-- Add your LinkedIn or other socials here -->
+  <a href="mailto:delhibhanu2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-raghav-96407b252/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
+
+I'm a full-stack developer focused on building **production-grade MERN applications** with clean architecture, security-first thinking, and scalable system design.
+
+What differentiates me:
+
+- 🛡️ **Security-first engineering** — validation, authentication, and safe API design
+- 🧠 **Structured system design** — modular architecture, clear data flow, maintainable code
+- 🚀 **Production mindset** — performance optimization, error handling, deployment-ready systems
+- 🐳 **Containerization fundamentals** — Docker-based environments
+- ☸️ **Kubernetes basics** — orchestration understanding for scalable infrastructure
+- 🤖 **Exploring Agentic AI** — integrating autonomous AI workflows into real applications
+
+I don’t just build features — I build systems meant to scale.
+
+---
+
+## 🛠️ Core Tech Stack
 
 <div align="center">
 
-<table width="1000" style="width:1000px; max-width:100%; border:2px solid #222; border-radius:10px;">
-  <tr>
-    <td width="62%" style="vertical-align:middle; padding:36px 32px; font-size:1.1em;">
-<ul>
-  <li>💻 Passionate about building clean, scalable web applications.</li>
-  <li>🧠 <b>Strong foundation in C++, algorithms, and problem solving.</b></li>
-  <li>⚡ Experienced with <b>Next.js</b>, React, and API integration.</li>
-  <li>🌱 Constantly learning and contributing to open source projects.</li>
-  <li>🏆 Active participant in coding competitions (LeetCode, Codeforces).</li>
-</ul>
-    </td>
-    <td width="25%" align="center" style="vertical-align:middle; padding:16px;">
-      <img src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg" width="220" height="230" alt="Lakshay Chauhan coding illustration" style="border-radius:10px; object-fit:cover; box-shadow:0 4px 20px rgba(0,0,0,0.1);"/>
-    </td>
-  </tr>
-</table>
+| Frontend | Backend | DevOps | Databases |
+|----------|----------|----------|----------|
+| React | Node.js | Docker | MongoDB |
+| TypeScript | Express | Kubernetes (Basics) | PostgreSQL |
+| Tailwind CSS | JavaScript | Linux | |
 
 </div>
 
-## 🌟 Featured Projects
+---
 
-<table>
-  <tr>
-    <td width="40%">
-      <b>📎 <a href="https://go-nomad.netlify.app/" target="_blank">GoNomad</a></b><br>
-      <sub>GoNomad is a simple and convenient platform for renting and lending cars and bikes, making travel easy and accessible for everyone.<br>
-      <b>Tech stack:</b> MERN Stack(MongoDB, React, Express, Node js) </sub>
-    </td>
-    <td width="40%">
-      <b>📎 <a href="https://github.com/ctrlcoded/clipo" target="_blank">Clipo</a></b><br>
-      <sub>A minimalistic file sharing app with drag & drop upload, instant shareable links, and no login required.<br>
-      <b>Tech stack:</b> Next.js 14, TypeScript, Tailwind CSS, ImageKit, React Icons</sub>
-    </td>
-  </tr>
-</table>
+## 🚀 Featured Projects
 
+### 📍 GoNomad  
+🔗 https://github.com/ctrlcoded/GoNomad  
+🌐 Live: https://aryan-portfolio-red-ten.vercel.app/
+
+**Car & Bike Rental Platform (Full MERN Stack Application)**
+
+Built with strong focus on system reliability and clean architecture.
+
+**Highlights:**
+- Secure authentication and input validation
+- RESTful API with structured error handling
+- Responsive UI with Tailwind CSS
+- Modular backend architecture
+- Deployment-ready frontend
+
+**Tech Stack:**
+React · TypeScript · Node.js · Express · MongoDB · Tailwind CSS
 
 ---
 
-## 💡 Skills & Tools
+### 🔐 Bind-DNS  
+🔗 https://github.com/ctrlcoded/Bind-DNS  
+
+**Infrastructure & DNS Automation Project**
+
+- BIND DNS configuration handling
+- Shell scripting automation
+- Systems-level experimentation
+- Infrastructure-focused mindset
+
+---
+
+## 🧠 Development Philosophy
+
+### 1️⃣ Security First
+- Input validation at every layer  
+- Secure password handling  
+- Defensive backend development  
+
+### 2️⃣ Clean Architecture
+- Modular folder structures  
+- Scalable backend design  
+- Maintainable codebase  
+
+### 3️⃣ Performance & Reliability
+- Optimized API structure  
+- Controlled error flows  
+- Production-ready standards  
+
+### 4️⃣ UI/UX Discipline
+- Consistent spacing & typography  
+- Responsive layouts  
+- Clear user journeys  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Kubernetes concepts  
+- Backend scalability patterns  
+- Agentic AI architecture & autonomous workflows  
+
+---
+
+## 🤝 Open To
+
+- Full-time Software Development roles  
+- Freelance MERN projects  
+- Startup collaborations  
+- AI + Web integration projects  
+
+---
+
+## 📬 Let’s Connect
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,tailwind,postman,git,linux,vscode" alt="Skill Icons" height="40" />
+  <a href="https://github.com/aryanraghav">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://aryan-portfolio-red-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge" />
+  </a>
+  <a href="mailto:delhibhanu2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-raghav-96407b252/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-<div align="center">
-  
-| Languages      | Web Development              | Tools & Platforms            |
-|--------------------|----------------------------------|----------------------------------|
-| C++, JS    | Next.js, React, Flask, REST APIs | Git, GitHub, VS Code, Postman, Linux |
-
-</div>
-
-- Problem Solving: Competitive programming, DSA (LeetCode, Codeforces)  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/ctrlcoded"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:delhibhanu2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aryan-raghav-96407b252/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ctrlcoded&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile!</b><br>
-  <i>I’m always open to collaboration, learning opportunities, or a good tech conversation 😊</i>
+  <sub>Focused on building reliable, scalable software systems.</sub>
 </p>
