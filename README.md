@@ -5,9 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27B5E2&center=true&vCenter=true&width=600&lines=Building+Scalable+MERN+Apps;Crafting+AI+%26+RAG+Pipelines;Solving+Complex+Problems" alt="Typing SVG" />
 
   <p align="center">
-    <a href="mailto:22bcs029@nith.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:delhibhanu2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/aryan-raghav-96407b252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="[Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
     <a href="https://leetcode.com/u/Aryanraghav/"><img src="https://img.shields.io/badge/LeetCode-1800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
     <a href="https://codeforces.com/profile/aryan__27"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   </p>
