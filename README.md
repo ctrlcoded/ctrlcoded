@@ -1,66 +1,275 @@
 <div align="center">
-  <h1>Hi, I'm Aryan Raghav 👋</h1>
-  <h3>Full Stack Developer | AI/ML Engineer</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=27B5E2&center=true&vCenter=true&width=600&lines=Building+Scalable+MERN+Apps;Crafting+AI+%26+RAG+Pipelines;Solving+Complex+Problems" alt="Typing SVG" />
+# Aryan Raghav
 
-  <p align="center">
-    <a href="mailto:delhibhanu2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/aryan-raghav-96407b252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/u/Aryanraghav/"><img src="https://img.shields.io/badge/LeetCode-1800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-    <a href="https://codeforces.com/profile/aryan__27"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+LLM+Engineer;Building+Scalable+Backend+Systems;Exploring+RAG+and+Intelligent+Applications;Problem+Solver+%7C+Open+to+Opportunities" alt="Typing SVG" />
+
+<p>
+Building AI-powered products, scalable backend systems, and modern full-stack applications.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/aryan-raghav-96407b252/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:22bcs029@nith.ac.in">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Aryanraghav/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/aryan__27">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 Quick Intro
-I'm a software engineer who loves bridging the gap between complex algorithms and production-ready web apps. Whether it's architecting a high-concurrency backend or integrating LLMs into modern web platforms, I'm all about building things that scale.
+## About Me
 
-* 🔭 **Currently hacking on:** Advanced RAG architectures & scalable MERN solutions.
-* 🎓 **Studying:** B.Tech in Computer Science @ NIT Hamirpur.
-* ⚡ **Fun Fact:** When I'm not coding, I'm probably grinding the leaderboards in Smash Badminton 3D or watching Studio Ghibli films.
+I am a Computer Science undergraduate at **NIT Hamirpur** passionate about building software that combines **strong engineering fundamentals** with **modern AI capabilities**.
 
----
+My primary interests lie in:
 
-### 🛠️ Tech Stack
+- Full Stack Development
+- Backend Engineering
+- AI & LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Scalable System Design
+- Data Structures & Algorithms
 
-**Languages:** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%230074c1.svg?style=flat-square&logo=typescript&logoColor=white) 
-
-**Web & Backend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
-
-**AI & Machine Learning:** ![LLMs](https://img.shields.io/badge/LLMs-FF9900?style=flat-square&logo=openai&logoColor=white) ![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF3366?style=flat-square&logo=coda&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) 
+Currently, I enjoy building products that integrate **LLMs, intelligent retrieval systems, and production-grade web applications**.
 
 ---
 
-### 🚀 Featured Projects
+## Current Focus
 
-<details>
-  <summary><b>🚗 GoNomad - High-Concurrency Vehicle Rental Platform</b></summary>
-  <br>
-  Built a highly scalable MERN application featuring JWT authentication, RBAC, and zero-conflict booking logic. Integrated Groq API for AI-powered car descriptions and WebP CDN compression, drastically reducing onboarding friction and improving load times. 
-</details>
-
-<details>
-  <summary><b>🧠 Indic Translation AI - Cultural Idiom Resolver</b></summary>
-  <br>
-  Engineered a multi-model RAG pipeline using Llama 3.3/4 and Kimi K2 to extract and translate cultural idioms. Utilized LaBSE multilingual embeddings and cosine similarity to filter semantic noise, boosting overall translation accuracy.
-</details>
-
-<details>
-  <summary><b>🌐 Automated DNS Management System</b></summary>
-  <br>
-  Developed a containerized DNS service using Shell scripting, Docker, and BIND9 to automate network configurations seamlessly.
-</details>
+```text
+→ Building AI-powered applications
+→ Exploring RAG architectures
+→ Learning scalable backend development
+→ Working with LLM APIs and intelligent workflows
+→ Strengthening system design fundamentals
+```
 
 ---
 
-### 📈 GitHub Stats
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+
+### AI / Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LaBSE-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq_API-red?style=for-the-badge"/>
+
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,postman"/>
+</p>
+
+---
+
+## Featured Projects
+
+### GoNomad — AI Powered Vehicle Rental Platform
+
+**Tech Stack:** MERN, ImageKit, Groq API
+
+Built a scalable vehicle rental platform focused on performance, reliability, and user experience.
+
+#### Highlights
+
+- JWT-based authentication and authorization
+- Optimized REST APIs
+- Handled 100+ concurrent test requests
+- Booking system with race-condition-safe date conflict handling
+- AI-generated vehicle descriptions using Groq API
+- ImageKit CDN integration with WebP optimization
+- Reduced image payload size by ~70%
+- Improved frontend loading speed by ~2x
+
+---
+
+### Resolving Idioms for Indic Machine Translation
+
+**Tech Stack:** Python, RAG, Groq API, LaBSE, Scikit-Learn, Llama Models
+
+Designed an AI pipeline focused on improving cultural understanding in machine translation.
+
+#### Highlights
+
+- Processed 500+ Hindi idioms
+- Built multilingual semantic retrieval using LaBSE embeddings
+- Applied cosine similarity-based filtering
+- Developed ensemble-based aggregation pipeline
+- Improved translation quality and cultural context preservation
+
+---
+
+## Experience
+
+### SDE Intern
+**SONI STACC TECHNOLOGY PRIVATE LIMITED**
+
+#### Contributions
+
+- Built authentication and authorization systems using the MERN stack
+- Reduced server overhead through stateless session management
+- Implemented JWT authentication with bcrypt hashing
+- Developed RBAC middleware for route-level access control
+- Improved client-side authentication flow using React Hooks and Axios interceptors
+- Reduced token refresh related issues by approximately 40%
+
+---
+
+## Achievements
+
+🏆 Solved **500+ DSA problems** across LeetCode, GFG, and Codeforces
+
+🏆 Achieved **1800+ LeetCode Rating**
+
+🏆 Led **Hack On Hills**, an all-India hackathon with **2000+ registrations**
+
+🏆 Coordinated **40+ participating teams**
+
+---
+
+## Education
+
+**National Institute of Technology Hamirpur**
+
+Bachelor of Technology (B.Tech)
+
+Computer Science Engineering
+
+2022 – 2026
+
+---
+
+## Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Aryanraghav/">
+<img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/aryan__27">
+<img src="https://img.shields.io/badge/Codeforces_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aryan-raghav-96407b252/">
+<img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## Let's Connect
+
+<p align="center">
+
+<a href="mailto:22bcs029@nith.ac.in">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aryan-raghav-96407b252/">
+<img src="https://img.shields.io/badge/LinkedIn-Aryan_Raghav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Aryanraghav/">
+<img src="https://img.shields.io/badge/LeetCode-1800%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrlcoded&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ctrlcoded&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+
+### Building AI-Powered Applications • Scalable Backends • Modern Full-Stack Systems
+
 </div>
