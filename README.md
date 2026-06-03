@@ -58,17 +58,13 @@ I'm a software engineer who loves bridging the gap between complex algorithms an
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrlcoded&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ctrlcoded&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrlcoded&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%" />
 </div>
-
+<br>
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctrlcoded&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)
+  <img src="https://github-profile-trophy.vercel.app/?username=ctrlcoded&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
-
-<div align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ctrlcoded&theme=radical&no-frame=true&no-bg=true&margin-w=15)
-</div>
-
 <br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ctrlcoded&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
