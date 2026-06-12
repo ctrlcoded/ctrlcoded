@@ -233,3 +233,23 @@ Developed a multilingual AI pipeline focused on preserving cultural context duri
 ### Building AI-Powered Applications • RAG Systems • Scalable Backend Solutions
 
 </div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ctrlcoded&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ctrlcoded&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlcoded&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
