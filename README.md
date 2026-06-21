@@ -168,10 +168,6 @@ A multilingual AI pipeline preserving cultural context in machine translation.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrlcoded&theme=tokyonight&hide_border=true"/>
 </div>
 
-<!-- ===== TROPHIES ===== -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ctrlcoded&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
 
 ---
 
