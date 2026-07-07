@@ -83,11 +83,43 @@ I build at the intersection of **Artificial Intelligence** and **Backend Enginee
 
 ---
 
-<!-- ===== SNAKE ANIMATION ===== -->
-## 🐍 Watch My Contributions Get Eaten
+<!-- ===== CONTRIBUTION ANIMATIONS ===== -->
+## 🎮 Contribution Games
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/snake.svg" alt="snake animation" />
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🐍 Snake Game
+
+<img src="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/snake.svg" alt="Snake animation" />
+
+</td>
+
+<td align="center" width="50%">
+
+### 👾 Pac-Man Game
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/pacman-contribution-graph-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/pacman-contribution-graph.svg">
+
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/pacman-contribution-graph.svg">
+</picture>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
