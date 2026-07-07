@@ -86,20 +86,6 @@ I build at the intersection of **Artificial Intelligence** and **Backend Enginee
 <!-- ===== CONTRIBUTION ANIMATIONS ===== -->
 ## 🎮 Contribution Games
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🐍 Snake Game
-
-<img src="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/snake.svg" alt="Snake animation" />
-
-</td>
-
-<td align="center" width="50%">
-
 ### 👾 Pac-Man Game
 
 <picture>
