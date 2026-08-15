@@ -184,7 +184,7 @@ A multilingual AI pipeline preserving cultural context in machine translation.
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=ctrlcoded&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ctrlcoded&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
