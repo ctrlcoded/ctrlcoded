@@ -23,7 +23,7 @@
 <a href="https://codeforces.com/profile/aryan__27">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
-<a href="mailto:22bcs029@nith.ac.in">
+<a href="mailto:delhibhanu2@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -88,23 +88,19 @@ I build at the intersection of **Artificial Intelligence** and **Backend Enginee
 
 ### 👾 Pac-Man Game
 
+<div align="center">
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/pacman-contribution-graph-dark.svg">
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/pacman-contribution-graph.svg">
-
   <img
     alt="Pac-Man contribution graph"
     src="https://raw.githubusercontent.com/ctrlcoded/ctrlcoded/output/pacman-contribution-graph.svg">
 </picture>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -177,15 +173,19 @@ A multilingual AI pipeline preserving cultural context in machine translation.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ctrlcoded&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlcoded&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ctrlcoded&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ctrlcoded&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ctrlcoded&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ctrlcoded&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ctrlcoded&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrlcoded&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ctrlcoded&theme=tokyonight&hide_border=true" />
 </div>
-
 
 ---
 
