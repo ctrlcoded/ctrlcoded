@@ -34,7 +34,7 @@
 <br>
 
 <!-- ===== ABOUT ===== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me</h2>
 
 ```typescript
 const aryan = {
@@ -47,15 +47,19 @@ const aryan = {
 };
 ```
 
+<div align="center">
+
 I build at the intersection of **Artificial Intelligence** and **Backend Engineering** — designing LLM-powered systems and the scalable APIs that serve them. I like turning rough ideas into production-ready products.
+
+</div>
 
 ---
 
 <!-- ===== TECH STACK ===== -->
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-#### AI / Machine Learning
-<p>
+<h4 align="center">AI / Machine Learning</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-1F6FEB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-9D4EDD?style=for-the-badge"/>
@@ -64,29 +68,29 @@ I build at the intersection of **Artificial Intelligence** and **Backend Enginee
 <img src="https://img.shields.io/badge/LaBSE-purple?style=for-the-badge"/>
 </p>
 
-#### Backend
-<p>
+<h4 align="center">Backend</h4>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,go"/>
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
 </p>
 
-#### Frontend
-<p>
+<h4 align="center">Frontend</h4>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css"/>
 </p>
 
-#### Languages & Tools
-<p>
+<h4 align="center">Languages & Tools</h4>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,git,github,linux,aws,postman,vscode"/>
 </p>
 
 ---
 
 <!-- ===== CONTRIBUTION ANIMATIONS ===== -->
-## 🎮 Contribution Games
+<h2 align="center">🎮 Contribution Games</h2>
 
-### 👾 Pac-Man Game
+<h3 align="center">👾 Pac-Man Game</h3>
 
 <div align="center">
 
@@ -107,9 +111,10 @@ I build at the intersection of **Artificial Intelligence** and **Backend Enginee
 ---
 
 <!-- ===== FEATURED PROJECTS ===== -->
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 🚗 GoNomad — AI-Powered Vehicle Rental Platform
+<h3 align="center">🚗 GoNomad — AI-Powered Vehicle Rental Platform</h3>
+
 A production-ready **MERN** platform with dual interfaces for customers and fleet owners.
 - 🔐 JWT auth + role-based access control (user / owner)
 - ⚡ Race-condition-safe booking via date-overlap logic — **0% booking conflicts** under load
@@ -117,33 +122,49 @@ A production-ready **MERN** platform with dual interfaces for customers and flee
 - 🤖 **Google Gemini** integration for AI-generated car descriptions — **80% faster** listing creation
 - 🖼️ ImageKit CDN + WebP compression — **70% smaller** payloads, **2x faster** load
 
+<div align="center">
+
 `React` · `Node.js` · `Express` · `MongoDB` · `Google Gemini` · `ImageKit`
+
+</div>
 
 <br>
 
-### 🧠 Solvi — AI Interview Prep Companion
+<h3 align="center">🧠 Solvi — AI Interview Prep Companion</h3>
+
 A spaced-repetition tracker for mastering the **NeetCode 150**, built on **Next.js 16**.
 - 🗓️ Custom spaced-repetition algorithm (interval + ease-factor scheduling)
 - ⚡ Optimistic UI via TanStack Query — non-blocking status updates
 - 🤖 **Gemini**-generated personalized day-by-day study plans
 - 🔒 Client-side API key handling — keys never touch the server
 
+<div align="center">
+
 `Next.js` · `React 19` · `Prisma` · `TypeScript` · `Tailwind v4` · `Gemini`
+
+</div>
 
 <br>
 
-### 🌐 Resolving Idioms for Indic Machine Translation `[Research]`
+<h3 align="center">🌐 Resolving Idioms for Indic Machine Translation <code>[Research]</code></h3>
+
 A multilingual AI pipeline preserving cultural context in machine translation.
 - 📚 Processed **500+ Hindi idioms** through a multi-model AI workflow
 - 🔍 **LaBSE** embeddings + cosine similarity to filter semantic noise
 - 🧩 Scikit-learn ensemble aggregation to combine LLM outputs and preserve meaning
 
+<div align="center">
+
 `Python` · `Groq API` · `Llama Models` · `LaBSE` · `Scikit-Learn` · `RAG`
+
+</div>
 
 ---
 
 <!-- ===== ACHIEVEMENTS ===== -->
-## 🏆 Achievements
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
 
 <table>
 <tr>
@@ -166,10 +187,12 @@ A multilingual AI pipeline preserving cultural context in machine translation.
 </tr>
 </table>
 
+</div>
+
 ---
 
 <!-- ===== GITHUB STATS ===== -->
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
